@@ -1,0 +1,19 @@
+{
+  "name": "email-lead-finder",
+  "version": "0.1.0",
+  "description": "Scans your Gmail inbox, spots anyone who could become a client, researches their company from their email domain, and ranks them Hot / Warm / Cold with a suggested next step.",
+  "author": {
+    "name": "Pradip Waghmare",
+    "url": "https://github.com/waghmarepb"
+  },
+  "keywords": [
+    "gmail",
+    "leads",
+    "sales",
+    "prospecting",
+    "freelance"
+  ],
+  "homepage": "https://github.com/waghmarepb/email-lead-finder",
+  "repository": "https://github.com/waghmarepb/email-lead-finder",
+  "license": "MIT"
+}

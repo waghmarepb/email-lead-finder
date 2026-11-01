@@ -1,0 +1,15 @@
+{
+  "name": "email-lead-finder",
+  "owner": {
+    "name": "Pradip Waghmare",
+    "url": "https://github.com/waghmarepb"
+  },
+  "plugins": [
+    {
+      "name": "email-lead-finder",
+      "source": "./",
+      "description": "Scans your Gmail inbox, spots anyone who could become a client, researches their company from their email domain, and ranks them Hot / Warm / Cold with a suggested next step.",
+      "version": "0.1.0"
+    }
+  ]
+}
